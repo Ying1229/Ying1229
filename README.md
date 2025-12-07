@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 技術棧（Skills）
+## 🛠 技術棧
 
 **Backend**
 - Java 21、Spring Boot 3、Maven
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 精選作品（Portfolio）
+## 🚀 精選作品
 
 🎓 CapyCourse — 線上影音教學平台（開發中）
 技術：Spring Boot、JWT Auth、JPA、Lucene全文搜尋、角色權限
