@@ -29,7 +29,7 @@
 
 ## 🚀 精選作品
 
-🎓 CapyCourse — 線上影音教學平台（開發中）
+🎓 CapyCourse — 線上影音教學平台
 技術：Spring Boot、JWT Auth、JPA、Lucene全文搜尋、角色權限
 特色：後端主導開發中，展示個人後端技術與課程平台架構能力
 🖥️作品功能介紹簡報 + Demo 連結：（完成後開放）
