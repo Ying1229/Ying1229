@@ -29,16 +29,17 @@
 
 ## 🚀 精選作品
 
-🎓 CapyCourse — 線上影音教學平台
+🎓 CapyCourse — 線上影音教學平台 （負責學生端後端）
 技術：Spring Boot、JWT Auth、JPA、Lucene全文搜尋、角色權限
 特色：後端主導開發中，展示個人後端技術與課程平台架構能力
-🖥️作品功能介紹簡報 + Demo 連結：（完成後開放）
+🖥️作品連結：
+https://capycourse.hankit.dev
   
-📚 EngLearningSystem — 英文單字＆文法學習平台 
+📚 EngLearningSystem — 英文單字＆文法學習平台 （獨自開發）
 技術：前端互動＋資料爬蟲＋後端雛形 
 特色：支援學生/教師雙角色、GEPT題庫處理、FastAPI雛形
-🖥️ 作品功能介紹簡報 + Demo 連結：
-  https://www.canva.com/design/DAGwqn-0ESs/HXLnkvT20EPBV1NpZPf13g/view?utm_content=DAGwqn-0ESs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h92548bcd70
+🖥️ 作品功能介紹簡報連結：
+https://reurl.cc/rKk71N
 
 ---
 
